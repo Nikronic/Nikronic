@@ -11,3 +11,5 @@
 - 💬 Ask me about anything, although %99.99~ of my answers will be "I don't know! tell me about it." but I know a little about computer vision.
 - 📫 How to reach me: [Twitter](https://twitter.com/NIkronic), My email on my [CV website](https://nikronic.github.io)
 - ⚡ Fun fact: If I could select me in another parallel universe, I would choose the one who is gamer/streamer and streams 12h per day.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Nikronic?style=social)
