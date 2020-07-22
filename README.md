@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on my master's thesis about 3D context-aware scene representation.
 - 🌱 I'm currently learning Finite Element Models and Topology Optimizations
-- 👯 I'm looking to collaborate on PyTorch framework
+- 👯 I'm looking to collaborate on PyTorch framework and I am mostly active on [PyTorch Discuss](https://discuss.pytorch.org/u/nikronic/summary)
 - 🤔 I'm looking for help with anything!
 - 🎶 I'd love to learn violin to understand godess of it; Lindsey Stirling
 - 💬 Ask me about anything, although %99.99~ of my answers will be "I don't know! tell me about it." but I know a little about computer vision.
