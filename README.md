@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Mohammad (Nikan) Doosti Lakhani
 
 ## About
 I am pursuing the master of computer engineering focusing on computer vision at Iran University of Science and Technology (unfortunately!). I am also intern at [Max Planck Institute for Informatics](mpi-inf.mpg.de) in Saarland, working on representing 3D objects. I tweet about science, mostly computer vision and image processing and I spend my spare time, playing FPS or complex strategic games like Factorio. I love to learn about cultures that's why I stick to the stand up comedy.
