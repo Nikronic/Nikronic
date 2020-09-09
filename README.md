@@ -1,10 +1,16 @@
 ### Hi there 👋
-I am Mohammad (Nikan) Doosti Lakhani
+I am Mohammad (Nikan) Doosti Lakhani<br>
+Mohammad is name my parents gave me, but I've chosen(!) Nikan and after years of struggle, now people call me Nik (abbreviated). It means genuine and good and it's Persian :iran: originated name.
 
 ## About
-I am pursuing the master of computer engineering focusing on computer vision at Iran University of Science and Technology (unfortunately!). Most imprtantly, I am an computational manufacturing/visual computing intern at [Max Planck Institute for Informatics](mpi-inf.mpg.de) in Saarland, working on representing 3D objects. I tweet about science, mostly computer vision and image processing and I spend my spare time, playing FPS and strategic games such as Factorio. I love to learn about cultures that's why I stick to the stand up comedy.
+I am pursuing the master of computer engineering focusing on computer vision at IUST (unfortunately!). <br>
+Also, I am an computational manufacturing/visual computing intern at [Max Planck Institute for Informatics](mpi-inf.mpg.de) at [CAM group](http://cam.mpi-inf.mpg.de/) under supervision of [Dr. Vahid Babaei](http://cam.mpi-inf.mpg.de/?view=people_vahid) in Saarland :de:, working on objects representation.<br>
 
-Note: I use Github for open source contribution and another platform for work. I may not have commits for a long period, but I always watch Github timeline (everyday).
+I tweet about science, mostly computer vision and image processing and I spend my spare time, playing FPS and strategic games such as Factorio. I love to learn about cultures that's why I stick to the stand up comedy.<br>
+
+You can find me everywhere with username _**Nikronic**_ except Instagram for obvious reasons!
+
+Note: I use Github for open source contribution and another platform for work. I may not have commits for a long period, but I always follow Github timeline (everyday).
 
 - 🔭 I'm currently working on my master's thesis about 3D scene representation.
 - 🌱 I'm currently learning English and Factorio game!
