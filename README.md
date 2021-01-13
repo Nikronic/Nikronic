@@ -18,7 +18,7 @@ Note: I use Github for open source contribution and another platform for work. I
 - 🤔 I'm looking for help with anything!
 - 🎶 I'd love to learn violin; Lindsey Stirling is the motivation.
 - 💓 I'd love to play games, either video (60%) or physical (40%) but I what I actually do is just playing/watching video games!
-- 💬 Ask me about anything, although ~%99.99 of my answers will be "I don't know! tell me about it." but I know a little about computer vision and deep learning.
+- 💬 Ask me about anything, although most of the time my answers will be "I don't know! tell me about it." but I know a little about computer vision and deep learning based manufacturing.
 - 📫 How to reach me: [Twitter](https://twitter.com/NIkronic), My email on my [CV website](https://nikronic.github.io)
 - ⚡ Fun fact: If I could select me in another parallel universe, I would choose the one who is gamer/streamer.
 - ⭐ Giving stars to people's projects not only will not consume yours, it will encourage developers to work harder and better. 
