@@ -19,7 +19,7 @@ Note: I use Github for open source contribution and another platform for work. I
 - 🎶 I'd love to learn violin; Lindsey Stirling sparked the idea.
 - 💓 I'd love to play games, specifically video games.
 - 💬 Ask me about anything, although most of the time my answers will be "I don't know! tell me about it." but I know a little about computer vision, computational manufacturing and deep learning.
-- 📫 How to reach me: My email on my [CV website](https://nikronic.github.io)
+- 📫 How to reach me: My email on my [CV website](https://nikronic.github.io), Telegram @Nikronic
 - ⚡ Fun fact: If I could select me in another parallel universe, I would choose the one who is gamer/streamer.
 - ⭐ Giving stars to people's projects not only will not consume yours, it will encourage developers to work harder and better. 
 
