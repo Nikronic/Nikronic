@@ -20,6 +20,4 @@ Note: I use Github for open source contribution and another platform for work. I
 - 📫 How to reach me: My email `nikan dot doosti at outlook dot com`, Telegram @Nikronic
 - ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage developers!
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Nikronic&theme=prussian&show_icons=true)](https://github.com/Nikronic)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/Nikronic?style=social)
