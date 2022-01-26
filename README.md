@@ -3,12 +3,11 @@ I am Nikan Doosti Lakhani<br>
 'Nikan' means genuine and good and it's Persian :iran: originated name, 'Doosti' literally means friendship and 'Lakhani' is a place where my paternal family comes from. 
 
 ## About
-I am pursuing the master of computer engineering focusing on aritifical intelligence at IUST (unfortunately! PS: It has a long and complicated story and I think if you do not know what I mean, you should ask since it might be important.). <br>
+I am pursuing the master of computer engineering focusing on aritifical intelligence at IUST (unfortunately! It has a long and complicated story and I think if you do not know what I mean, you should ask since it might be important.). <br>
 Also, I was an computational manufacturing research assistant at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [CAM group](http://cam.mpi-inf.mpg.de/) under supervision of [Dr. Vahid Babaei](http://cam.mpi-inf.mpg.de/?view=people_vahid) in Saarland :de:, working on applications of machine learning in fabrication.<br> Our work which was my first ever academic paper has been [published (@SCF)](https://dl.acm.org/doi/abs/10.1145/3485114.3485124)!<br>
 
 
 - 🔭 I'm looking for help with finding an awesome PhD position!
-- 😣 I'm financially struggling with migration and this message is part of last efforts to overcome it, so let me know if you have any ideas (full/part-time job, freelance project, etc)!
 - 🌱 I'm currently (re)learning C++ and started learning machine learning in artificial scientific discovery.
 - 👯 I'm looking to collaborate on PyTorch framework. Meet me on official PyTorch forum: [PyTorch Discuss](https://discuss.pytorch.org/u/nikronic/summary).
 - 💓 I'd love to play games, particularly video games.
