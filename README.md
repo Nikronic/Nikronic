@@ -4,7 +4,7 @@ I am Nikan Doosti Lakhani<br>
 
 ## About
 I am pursuing the master of computer engineering focusing on aritifical intelligence at IUST (unfortunately! It has a long and complicated story and I think if you do not know what I mean, you should ask since it might be important.). <br>
-Also, I was an computational manufacturing research assistant at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [CAM group](http://cam.mpi-inf.mpg.de/) under supervision of [Dr. Vahid Babaei](http://cam.mpi-inf.mpg.de/?view=people_vahid) in Saarland :de:, working on applications of machine learning in fabrication.<br> Our work which was my first ever academic paper has been [published (@SCF)](https://dl.acm.org/doi/abs/10.1145/3485114.3485124)!<br>
+Also, I was an computational manufacturing research assistant at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [AIDAM group](http://aidam.mpi-inf.mpg.de/) under supervision of [Dr. Vahid Babaei](http://aidam.mpi-inf.mpg.de/?view=people_vahid) in Saarland :de:, working on applications of machine learning in fabrication.<br> Our work which was my first ever academic paper has been [published (@SCF)](https://dl.acm.org/doi/abs/10.1145/3485114.3485124)!<br>
 
 
 - 🔭 I'm looking for help with finding an awesome PhD position!
