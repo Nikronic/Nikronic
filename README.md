@@ -1,3 +1,5 @@
+>If you don't have time, you can view the short CV here: https://nikronic.github.io/pdf/resume.pdf
+
 ### Hi there 👋
 I am Nikan Doosti Lakhani<br>
 'Nikan' means genuine and good and it's Persian :iran: originated name, 'Doosti' literally means friendship and 'Lakhani' is a place where my paternal family comes from. 
