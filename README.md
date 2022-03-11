@@ -14,7 +14,7 @@ Also, I was an computational manufacturing research assistant at [Max Planck Ins
 - 👯 I'm looking to collaborate on PyTorch framework. Meet me on official PyTorch forum: [PyTorch Discuss](https://discuss.pytorch.org/u/nikronic/summary).
 - 💓 I'd love to play games, particularly video games.
 - 💬 Ask me about anything, although most of the time my answers will be "I don't know! tell me about it." but I know a little about computer vision, computational manufacturing and deep learning.
-- 📫 How to reach me: My email `nikan [dot] doosti [at] outlook [dot] com`, Telegram @Nikronic
+- 📫 How to reach me: My email `nikan [dot] doosti [at] outlook [dot] com`
 - ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!
 
 I follow Github timeline almost everyday (Works as a social media for me :D).
