@@ -6,7 +6,7 @@ I am Nikan Doosti Lakhani<br>
 'Nikan' means genuine and good and it's Persian :iran: originated name, 'Doosti' literally means friendship and 'Lakhani' is a place where my paternal family comes from. 
 
 ## About
-I am pursuing the master of computer engineering focusing on aritifical intelligence at Iran University of Science and Technology. <br>
+I am a MSc graduate of computer engineering (artificial intelligence) from Iran University of Science and Technology. <br>
 Also, I was an computational manufacturing research assistant at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [AIDAM group](http://aidam.mpi-inf.mpg.de/) under supervision of [Vahid Babaei](http://aidam.mpi-inf.mpg.de/?view=people_vahid) in Germany :de:, working on applications of machine learning in fabrication.<br> Our work which was my first ever academic paper has been [published (@SCF)](https://dl.acm.org/doi/abs/10.1145/3485114.3485124)!<br>
 
 - 🔭 I'm looking for help with finding an awesome full time job position (in Iran or remote)!
