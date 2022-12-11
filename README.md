@@ -1,5 +1,5 @@
->* If you need **more** details, you can view the 2-page CV here: https://nikronic.github.io/pdf/resume.pdf
->* (outdated; new one is under construction) If you need **comprehensive** info, you can view my personal website here: https://nikronic.github.io
+>* You can view the 2-page CV [here](https://www.nikronic.com/assets/pdf/resume.pdf).
+>* If you need **comprehensive** info, you can view my personal website on [nikronic.com](https://nikronic.com).
 
 ### Hi there 👋
 I am Nikan Doosti Lakhani<br>
