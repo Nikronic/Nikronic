@@ -27,5 +27,5 @@ I follow Github timeline almost everyday (Works as a social media for me :D).
 ----
 
 <div align='center'>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNikronic%2FNikronic&count_bg=%2379C83D&title_bg=%23555555&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNikronic%2Fhit-counter&count_bg=%230C8C9B&title_bg=%2300444F&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
