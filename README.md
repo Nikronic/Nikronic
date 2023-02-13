@@ -23,3 +23,9 @@ I am a MSc graduate of computer engineering (artificial intelligence) from Iran 
 - ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!
 
 I follow Github timeline almost everyday (Works as a social media for me :D).
+
+----
+
+<div align='center'>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNikronic%2FNikronic&count_bg=%2379C83D&title_bg=%23555555&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+</div>
