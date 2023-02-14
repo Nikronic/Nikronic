@@ -1,7 +1,7 @@
 <div align='center' style='margin-top: 20px;'>
 <a href='https://nikronic.com' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Website-127a75?style=for-the-badge&logo=google-chrome&logoColor=white" title="Personal webpage" /></a>
 <a href='https://scholar.google.com/citations?user=QWFKVW8AAAAJ' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Scholar-5654a8?style=for-the-badge&logo=google-scholar&logoColor=white" title="Google Scholar" /></a>
-<a href='[https://twitter.com/mcrespo__](https://www.nikronic.com/assets/pdf/resume.pdf)' style='margin-right: 10px'><img src="https://img.shields.io/badge/-2--Page%20CV-127a75?style=for-the-badge&logo=Shotcut&logoColor=white" title="Short CV" /></a>
+<a href='https://www.nikronic.com/assets/pdf/resume.pdf' style='margin-right: 10px'><img src="https://img.shields.io/badge/-2--Page%20CV-127a75?style=for-the-badge&logo=Shotcut&logoColor=white" title="Short CV" /></a>
 <a href='https://www.linkedin.com/in/nikan-doosti-9594b0237/'><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn" /></a>
 </div>
 
