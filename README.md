@@ -17,7 +17,7 @@ I am a MSc graduate of computer engineering (artificial intelligence) from Iran 
 - 🧐 I'm interested in devising self-supervised deep learning models for efficient and accurate modeling, and I always love to work on interdisciplinary topics such as intersection of AI and Science.
 - 🌱 I'm currently (re)learning C++ and started learning MLOps.
 - 👯 I'm looking to collaborate on PyTorch framework. Meet me on official PyTorch forum: [PyTorch Discuss](https://discuss.pytorch.org/u/nikronic/summary). Fun fact: I attempted Tensorflow 4 times, never got to stick to it, tried PyTorch once, fell in love!
-- 💓 I'd love to play games, particularly video games. I mostly play Dota 2, CnC Generals ZH. I am noob in the execution (slow body, eyes, FPS, and refresh reate :D), but I plan well!
+- 💓 I'd love to play games, particularly video games. I mostly play Dota 2, CnC Generals ZH. I am noob in the execution (slow body, eyes, FPS, and refresh rate :D), but I plan well!
 - 💬 Ask me about anything, but I don't know how much I don't know. However, I know a bit about machine learning, computational manufacturing, and compuer vision.
 - 📫 How to reach me: My email `nikan [dot] doosti [at] outlook [dot] com` (more details on the bottom of home page of my website)
 - ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!
