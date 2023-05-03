@@ -12,12 +12,12 @@ I am Nikan Doosti<br>
 'Nikan' means genuine and good and it's Persian :iran: originated name, and 'Doosti' literally means friendship!
 
 ## About
-I am a MSc graduate of computer engineering (artificial intelligence) from Iran University of Science and Technology ([IUST](http://www.iust.ac.ir/en)). <br> I am working as a machine learning engineer on using AI on topics such as digital marketing, cache optimization, and content generation! Previously, I did a research internshipt at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [AIDAM group](http://aidam.mpi-inf.mpg.de/) in Germany :de:, working on applications of machine learning in fabrication. Prior to that, I was mainly focused on classic computer vision, specifically digital image processing.
+I am a MSc graduate of computer engineering (artificial intelligence) from Iran University of Science and Technology ([IUST](http://www.iust.ac.ir/en)). <br> I am working as a machine learning engineer on using AI on topics such as digital marketing, cache optimization, and content generation. Previously, I did a research internship at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [AIDAM group](http://aidam.mpi-inf.mpg.de/) in Germany :de:, working on applications of machine learning in fabrication. Prior to that, I was mainly focused on classic computer vision, specifically digital image processing.
 
 - 🧐 I'm interested in devising self-supervised deep learning models for efficient and accurate modeling, and I always love to work on interdisciplinary topics such as intersection of AI and Science.
 - 🌱 I'm currently (re)learning C++ and started learning MLOps.
 - 👯 I'm looking to collaborate on PyTorch framework. Meet me on official PyTorch forum: [PyTorch Discuss](https://discuss.pytorch.org/u/nikronic/summary)
-- 💓 I'd love to play games, particularly video games. I mostly play Dota 2, CnC Generals ZH. I am noob in the execution (slow body, eyes, FPS, and refresh rate :D), but I plan well!
+- 💓 I'd love to play games, particularly video games. I mostly play Dota 2 and CnC Generals ZH. I am noob in execution (slow body, eyes, FPS, and refresh rate :D), but I plan well!
 - 💬 Ask me about anything, but I don't know how much I don't know. However, I know a bit about AI, Graphics, and Computer Vision.
 - 📫 How to reach me: My email `nikan [dot] doosti [at] outlook [dot] com` (more details on the bottom of home page of my website)
 - ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!
