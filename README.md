@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 I am Nikan Doosti<br>
-'Nikan' means genuine and good and it's Persian :iran: originated name, and 'Doosti' literally means friendship!
+'Nikan' means genuine and good and it's Persian originated name, and 'Doosti' literally means friendship!
 
 ## About
 I am a MSc graduate of computer engineering (artificial intelligence) from Iran University of Science and Technology ([IUST](http://www.iust.ac.ir/en)). <br> I am working as a machine learning engineer on using AI on topics such as digital marketing, cache optimization, and content generation. Previously, I did a research internship at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) at [AIDAM group](http://aidam.mpi-inf.mpg.de/) in Germany :de:, working on applications of machine learning in fabrication. Prior to that, I was mainly focused on classic computer vision, specifically digital image processing.
